@@ -1,7 +1,5 @@
 # kcf_tracker
-c demo for kernelized correalation filters on windows
+code for kernelized correalation filters tracker.
 
-reference paper:
-
-1.High-Speed Tracking with Kernelized Correlation Filters. TPAMI2015.
-João F. Henriques,Rui Caseiro, Pedro Martins, and Jorge Batista
+* reference paper:
+* 1.High-Speed Tracking with Kernelized Correlation Filters. TPAMI2015. João F. Henriques,Rui Caseiro, Pedro Martins, and Jorge Batista
